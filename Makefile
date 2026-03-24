@@ -1,5 +1,5 @@
 # Program
-NAME = cub3D
+NAME = raycaster
 
 # Colors
 RED     = \033[31m
